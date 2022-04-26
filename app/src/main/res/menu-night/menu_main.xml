@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/playFileItem"
+        android:icon="@drawable/ic_baseline_audio_file_36_night"
+        android:title="@string/playFile"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/playFolderItem"
+        android:icon="@drawable/ic_baseline_library_music_36_night"
+        android:title="@string/playFolder"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/settingsItem"
+        android:title="@string/settings" />
+</menu>

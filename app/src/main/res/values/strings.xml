@@ -9,5 +9,5 @@
     <string name="repeat">Toggle repeat mode</string>
     <string name="adapterDefaultMessage">Choose a file or folder to play</string>
     <string name="trackNum" formatted="false">%02d</string>
-
+    <string name="settings">Settings</string>
 </resources>
